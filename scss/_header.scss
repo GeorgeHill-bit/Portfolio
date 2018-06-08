@@ -1,0 +1,19 @@
+/* CSS code for the Header section. */
+.jumbotron {
+    background: url('http://eleven50.wpengine.com/wp-content/uploads/2017/03/Learning-to-Code5.png?id=21797') no-repeat center center;
+    // initial value = padding-top: 8rem; padding-bottom 8rem;
+    padding-top: 1rem;
+    // padding-bottom: 1rem;
+}
+
+.jumbotron-heading {
+    // initial value = padding-top: 50px; font-weight: 400;
+    padding-top: 10px;
+    font-weight: 400;
+}
+
+.jumbotron .container {
+    // initial value = max-width: 60rem;
+    max-width: 60rem; 
+}
+  
