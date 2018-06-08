@@ -1,12 +1,12 @@
 {
-  "name": "JS.151.PortfolioStarter",
+  "name": "Portfolio",
   "version": "1.0.0",
-  "description": "A repo for getting started on developer portfolio.",
+  "description": "Thomas Flynn Portfolio",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Thomas B. Flynn",
+  "author": "Thomas Flynn",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.24.4",
