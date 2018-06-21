@@ -1,4 +1,7 @@
-## UI Tools
+Thomas Flynn Portfolio
+
+Noteworthy projects and tools, images, techiques used in the building of the portfolio.
+
 ### Indispensable Tools
  * [jQuery](https://jquery.com/) - jQuery
  * [Bootstrap](https://getbootstrap.com/) - Bootstrap
